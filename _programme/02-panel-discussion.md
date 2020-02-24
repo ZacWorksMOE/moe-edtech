@@ -27,11 +27,11 @@ As the movement continues to grow and evolve, one of the biggest questions that 
 <td><br><strong>Stephanie Passman</strong><br />Head Teacher<br />Albemarle County Public Schools:<br />Laboratory Schools for Student-Centred Learning<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 <tr>
-<td><br><img src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
+<td><br><img style="width: 150px;" src="/images/Aaron Loh Photo.png" alt="Aaron Loh" /><br></td>
 <td><br><strong>Aaron Loh</strong><br />Divisional Director<br />Educational Technology Division<br />MOE<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
-<tr>
-<td><br><img src="/images/Adrian Lim Photo.JPG" alt="Adrian Lim" /><br></td>
+<tr><!-- changes made by CTM -->
+<td><br><img width="100%" src="/images/Adrian Lim Photo V2.jpg" alt="Adrian Lim" /><br></td>
 <td><br><strong>Adrian Lim</strong><br />Director<br />Digital Literacy and Participation Division<br />(Digital Readiness Cluster)<br />IMDA<br><a href="https://www.edtech.moe.edu.sg/pages/biography/">Biography</a></td>
 </tr>
 </tbody>
